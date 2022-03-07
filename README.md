@@ -2,15 +2,15 @@
 
 ## About me
 
-My name is Katarzyna Wyborska. I am at the beginning of my journey to become Software Tester. in my portfolio, I would like to share with you my testing knowladge and show my technical skills, which I gained on course and through my selflearning. 
-My goal is to develop as a Software Tester. I am now looking for a junior position in testing area.
+My name is Katarzyna Wyborska. I am at the beginning of my journey to become Software Tester. in my portfolio, I would like to share with you my testing knowledge and show my technical skills, which I gained on course and through my self-learning.  
+My goal is to develop as a Software Tester. I am now looking for a junior position in testing area. 
 
-I believe that high quality is the bestselling point of services and products. Thanks to my diverse experience from previous workplaces I have highely developed interpersonal skills and empathy which give me a wider perspective and better understanding of contexts. My international experience equips me with valuable tools such as open mind and adaptability. I enjoy learning newthings and exploring new opportunites.
+I believe that high quality is the bestselling point of services and products. Thanks to my diverse experience from previous workplaces, I have highly developed interpersonal skills and empathy which give me a wider perspective and better understanding of contexts. My international experience equips me with valuable tools such as open mind and adaptability. I enjoy learning new things and exploring new opportunities.
 
-**My expiriance**
+**My experience**
 
-My previous work expirance varies from office assistance through customer service supporter to Label coordinator in medical comapny. 
-I my career, I have two oportunities to test software as a user. In Arvato, I have tested ticketing system Rave 2.0 and in Coloplast - Labelling and Artwork Managing Software [Kallik](https://www.kallik.com/). In both cases I did not have any test cases or scenarious prepared, I have been following processes and using my expiriance. Bugs found by me was raported to person responsible for the testings via Excel file.
+My previous experience varies from office assistance through customer service supporter to Label coordinator in medical company.  
+I my career, I have two opportunities to test software as a user. In Arvato, I have tested ticketing system Rave 2.0 and in Coloplast - Labelling and Artwork Managing Software Kallik (https://www.kallik.com/). In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to person responsible for the testings via Excel file. 
 
 ## Tools I use
 
@@ -22,11 +22,12 @@ I my career, I have two oportunities to test software as a user. In Arvato, I ha
 
 ## Courses
 
-* Software tester course in Software Development Academy
+* **Software tester course in Software Development Academy**
+* Konsola Deweloperska on [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
 
 ## Certificates
 
-* ISTQB Foundation Level passed in February 2022
+* ISTQB Foundation Level passed in January 2022
 
 ## Books
 
