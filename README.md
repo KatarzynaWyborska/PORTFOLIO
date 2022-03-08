@@ -12,14 +12,6 @@ I believe that high quality is the bestselling point of services and products. T
 My previous experience varies from office assistance through customer service supporter to Label coordinator in medical company.  
 I my career, I have two opportunities to test software as a user. In Arvato, I have tested ticketing system Rave 2.0 and in Coloplast - Labelling and Artwork Managing Software [Kallik](https://www.kallik.com/). In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to person responsible for the testings via Excel file. 
 
-## Tools I use
-
-* I will list here tools I use
-
-## Tech skills I have
-
-* I will list tech skills here
-
 ## Courses
 
 * **Software tester course in Software Development Academy**
@@ -28,6 +20,10 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 ## Certificates
 
 * ISTQB Foundation Level passed in January 2022
+
+## Tools I use
+
+* I will list here tools I use
 
 ## Books
 
