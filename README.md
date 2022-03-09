@@ -29,9 +29,9 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 * Rapid Reporter, Test & Feedback - used for exploratory testing
 * Slack - for comunication within the team
 * Chrome DevTools - for testing and to improve bug reports
-* Git, Git Bash, GitHub -
-* Postman - testing tool for REST API
+* Git, Git Bash, GitHub
 * MySQL - relational database management system
+* Postman - testing tool for REST API
 * Cucumber - software supporting behaviour-driven development
 * Selenium IDE - tool use to support automated testing
 * Selenium WebDriver - for automated testing of web applications
