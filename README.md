@@ -21,9 +21,22 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 
 * ISTQB Foundation Level passed in January 2022
 
-## Tools I use
+## Tools 
 
-* I will list here tools I use
+* Jira - bug tracker
+* Trello, Azure Devops - project management
+* TestRail - test cases management
+* Rapid Reporter, Test & Feedback - used for exploratory testing
+* Slack - for comunication within the team
+* Chrome DevTools - for testing and to improve bug reports
+* Git, Git Bash, GitHub -
+* Postman - testing tool for REST API
+* MySQL - relational database management system
+* Cucumber - software supporting behaviour-driven development
+* Selenium IDE - tool use to support automated testing
+* Selenium WebDriver - for automated testing of web applications
+* Java - basics of Java language
+* IntelliJ IDEA - development environment for Java 
 
 ## Books
 
