@@ -56,6 +56,7 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 
 * Testowanie oprogramowania
 * Tester oprogramowania - wsparcie na starcie
+* Dare IT Community
 * Girls Who Tests
 * Czy IT jest dla mnie?
 
