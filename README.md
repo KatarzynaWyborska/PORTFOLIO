@@ -10,7 +10,7 @@ I believe that high quality is the bestselling point of services and products. T
 **My experience**
 
 My previous experience varies from office assistance through customer service supporter to Label coordinator in medical company.  
-I my career, I have two opportunities to test software as a user. In Arvato, I have tested ticketing system Rave 2.0 and in Coloplast - Labelling and Artwork Managing Software [Kallik](https://www.kallik.com/). In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to person responsible for the testings via Excel file. 
+I my career, I have two opportunities to test software as a user. In Arvato, I have tested ticketing system Rave 2.0 and in Coloplast - Labelling and Artwork Managing Software [Kallik](https://www.kallik.com/). In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to person responsible for the testings via Excel file. I also test at Testbirds.
 
 ## Courses
 
