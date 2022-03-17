@@ -74,3 +74,13 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 *
 
 
+**SQL**
+
+*
+
+
+**REST API**
+
+*
+
+
