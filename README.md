@@ -71,7 +71,7 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 
 **Test cases**
 
-*
+* Test cases for Mango site [LINK to test cases](https://docs.google.com/spreadsheets/d/1WQgW-N1fAYeZhGfJkiQRPHJCWVpwo19HIvsEqZoOaRw/edit?usp=sharing)
 
 
 **SQL**
