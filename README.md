@@ -16,6 +16,7 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 
 * **Software tester course in Software Development Academy**
 * Konsola Deweloperska on [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
+* Jira od podstaw - zarządzanie projektami (Udemy)
 
 ## Certificates
 
@@ -62,4 +63,9 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 
 ## My projects
 
-#### My bug reports in TestRail
+**Bugs**
+* Bug on electro.pl site [LINK](https://drive.google.com/file/d/1yesvps0xIm7wzr4dvWtvyRXwQWFkCL5j/view?usp=sharing)
+* 
+
+
+
