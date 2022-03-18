@@ -66,7 +66,7 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 **Bugs**
 
 * Bug on electro.pl site [LINK to bug](https://drive.google.com/file/d/1yesvps0xIm7wzr4dvWtvyRXwQWFkCL5j/view?usp=sharing)
-* Bugs on Ben and Jerry's UK site [LINK to bugs](https://drive.google.com/file/d/1yesvps0xIm7wzr4dvWtvyRXwQWFkCL5j/view?usp=sharing)
+* Bugs on Ben and Jerry's UK site [LINK to bugs](https://docs.google.com/document/d/14ETHDDLujWfL7RM4yimuueFPCdIs30tbVXNaBwkYNNM/edit?usp=sharing)
 
 
 **Test cases**
