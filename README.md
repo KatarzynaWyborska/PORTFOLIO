@@ -17,6 +17,7 @@ I my career, I have two opportunities to test software as a user. In Arvato, I h
 * **Software tester course in Software Development Academy**
 * Konsola Deweloperska on [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
 * Jira od podstaw - zarządzanie projektami (Udemy)
+* MySQL tworzenie i zarządzanie bazami danych (Udemy)
 
 ## Certificates
 
