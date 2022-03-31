@@ -30,7 +30,7 @@ Right now I am also active as a tester at Testbirds.
 * Trello, Azure Devops - project management
 * TestRail - test cases management
 * Rapid Reporter, Test & Feedback - used for exploratory testing
-* Slack - for comunication within the team
+* Slack - for communication within the team
 * Chrome DevTools - for testing and to improve bug reports
 * Git, Git Bash, GitHub
 * MySQL - relational database management system
