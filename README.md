@@ -85,9 +85,9 @@ Right now I am also active as a tester at Testbirds.
 
 **HTML/CSS**
 
-* I have participated in 5-day Marathon with HTML/CSS conducted by GoIT. 
+* I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch. 
 
-[LINK to my tester CV made during Marathon](https://chimerical-sorbet-a03d75.netlify.app/)
+  [LINK to my tester CV made during Marathon](https://chimerical-sorbet-a03d75.netlify.app/)
 
 
 **REST API**
