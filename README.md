@@ -80,12 +80,14 @@ Right now I am also active as a tester at Testbirds.
 
 **SQL**
 
-*
+* 
 
 
 **HTML/CSS**
 
-*
+* I have participated in 5-day Marathon with HTML/CSS conducted by GoIT. 
+
+[LINK to my tester CV made during Marathon](https://chimerical-sorbet-a03d75.netlify.app/)
 
 
 **REST API**
