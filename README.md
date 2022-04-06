@@ -19,6 +19,7 @@ Right now I am also active as a tester at Testbirds.
 * Konsola Deweloperska on [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
 * Jira od podstaw - zarządzanie projektami (Udemy)
 * MySQL tworzenie i zarządzanie bazami danych (Udemy)
+* 6-day HTML/CSS Marathon from GoIT
 
 ## Certificates
 
